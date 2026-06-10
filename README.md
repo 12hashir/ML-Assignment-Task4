@@ -1,7 +1,7 @@
 # Task 4 - Linear Regression with Ridge Regularization
 
-*Student:* [Apna naam likho]  
-*Roll No:* [Apna roll no]  
+*Student:* [Hashir Ali]  
+*Roll No:* [38]  
 *Course:* Machine Learning
 
 ## Objective
